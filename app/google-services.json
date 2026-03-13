@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755608912360",
+    "project_id": "cheatbite",
+    "storage_bucket": "cheatbite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755608912360:android:1626ea2b04b5b05d60e45d",
+        "android_client_info": {
+          "package_name": "com.app.cheatbite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755608912360-o94gvbkpo8ps9b4tokgdiiefqqs5hcse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.cheatbite",
+            "certificate_hash": "40d56d09d3e78fd004f667054bbd9d1730fa7546"
+          }
+        },
+        {
+          "client_id": "755608912360-n5cm6glvp5v3qair4k6told36hdj9nbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC8cfX-Qw0egLAK9QfuHWcIBA7z1PvSx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755608912360-n5cm6glvp5v3qair4k6told36hdj9nbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
