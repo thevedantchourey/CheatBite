@@ -61,6 +61,7 @@ CheatBite is built on the foundation of the modern Android Ecosystem, demonstrat
 * **MVVM Architecture:** Strict separation of concerns is maintained. The ViewModel handles complex business logic, manages application state with `MutableStateFlow`, and maps raw data to UI-friendly formats.
 * **Kotlin Coroutines & Flow:** Asynchronous operations, database transactions, and network calls are handled seamlessly off the main thread, ensuring a smooth, butter-like scrolling experience.
 * **collectAsStateWithLifecycle:** Advanced lifecycle awareness ensures the UI only consumes resources when it is active.
+* **Koin** Following "Modern Android Practices" Koin is implementated for DI.
 
 ### Firebase Backend (BaaS)
 * **Firebase Authentication:** Powers the passwordless Gmail sign-on.
