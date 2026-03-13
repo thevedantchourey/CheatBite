@@ -11,9 +11,11 @@ Unlike traditional fitness apps that bury settings deep within multi-layered men
 
 ## 📸 Visual Showcase
 
-| 🚀 Seamless Onboarding | 🧘 Snack Sensei AI | 👤 Interactive Profile |
+| 🚀 Seamless Onboarding | 👤 Interactive Profile |
 | :---: | :---: | :---: |
 | <img src="https://github.com/thevedantchourey/CheatBite/blob/main/app/src/main/res/raw/screenshots/Screenshot_20260313_021253.png" width="250"> | <img src="https://github.com/thevedantchourey/CheatBite/blob/main/app/src/main/res/raw/screenshots/Screenshot_20260313_022137.png" width="250"> | <img src="https://github.com/thevedantchourey/CheatBite/blob/main/app/src/main/res/raw/screenshots/Screenshot_20260313_021125.png" width="250"> |
+
+| 🧘 Snack Sensei AI |
 <img src="https://github.com/thevedantchourey/CheatBite/blob/main/app/src/main/res/raw/screenshots/Screenshot_20260313_021113.png" width="250"> | 
 | Passwordless Sign-up | Your AI Food Guide | A Dashboard, Not a Form |
 
