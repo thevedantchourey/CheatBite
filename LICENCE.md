@@ -10,7 +10,7 @@ This project is a showcase of my abilities in Android development. All code with
 
 4. **No Commercial Use**: This code may not be used for commercial purposes.
 
-5. **Attribution**: If you reference or showcase this project, please provide appropriate attribution to the original author (Me:Vedant.R.J.Chourey).
+5. **Attribution**: If you reference or showcase this project, please provide appropriate attribution to the original author (Me:Vedant R.J.Chourey).
 
 ## Disclaimer
 
