@@ -71,20 +71,3 @@ CheatBite is built on the foundation of the modern Android Ecosystem, demonstrat
 * **R8 / ProGuard Optimization:** The release build is fully optimized, utilizing strict `TypeToken`, `model`, `dto`, and `mapper` "keep" rules to shrink the APK size and secure the code while keeping the reflection-based data layer intact.
 
 ---
-
-## 🚀 How to Run locally
-
-**Prerequisites:**
-1.  Android Studio (Hedgehog or newer)
-2.  Your own Firebase Project config (`google-services.json`)
-
-**Steps:**
-1.  Clone the repository: `git clone https://github.com/thevedantchourey/cheatbite.git`
-2.  Place your `google-services.json` file inside the `app/` folder.
-3.  Open the project in Android Studio.
-4.  Run the app on your device or emulator.
-
-**Download the APK:**
-1.  Navigate to the **Releases** section on GitHub.
-2.  Download the latest `release.apk`.
-3.  Install on your Android device.
