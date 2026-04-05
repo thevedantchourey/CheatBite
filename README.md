@@ -1,4 +1,5 @@
-# CheatBite 🍔
+
+<img src="https://github.com/thevedantchourey/CheatBite/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.webp"  height=50px width=50px  style="border-radius: 50%">  # CheatBite 🍔
 
 ### Master Your Cheat Meals, Don't Let Them Master You.
 
